@@ -9,5 +9,10 @@ Feature Complexity: Non-linear relationships and feature interactions significan
 
 Critical Pricing Factors:
 a) Vehicle age and mileage are the strongest factors influencing price
-b) Drive and Type are also influential
+b) Drive (AWD, FWD, RWD) and Vehicle Type are also influential
 c) There are distinct pricing tiers which are influenced by Brand name (Luxury status)
+
+Findings
+
+We
+
